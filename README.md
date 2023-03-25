@@ -2,8 +2,6 @@
 - 💻 Currently employed @ Infinite-Compute as a (remote) Backend Developer.
 - 🔧 As of current, I mainly work on desktop and android applications.
 - 👀 I’m interested in learning more about Machine Learning and HCI.
-- 🌱 I’m currently learning AR/MR Development.
-- 📫 You can reach me at raufbhatti707@gmail.com.
 
 <!---
 rauf-bhatti/rauf-bhatti is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
