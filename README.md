@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @rauf-bhatti!
-- 💻 Currently employed @ Infinite-Compute as a (remote) Software Engineer.
+- 💻 I'm a MSc Advanced Computer Science candidate at Cardiff University.
 - 👀 I’m interested in learning more about Machine Learning and AI. 
 
 <!---
